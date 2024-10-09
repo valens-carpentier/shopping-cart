@@ -1,8 +1,9 @@
-# React + Vite
+This is a simple e-commerce website built with React. It allows users to browse products, add them to their cart, and proceed to checkout. The website is designed to be responsive and visually appealing, with a focus on a clean and modern design.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+- Browse products with detailed information and images
+- Add products to the cart with quantity control
+- View the cart and adjust quantities
+- Proceed to checkout with a secure payment system
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
