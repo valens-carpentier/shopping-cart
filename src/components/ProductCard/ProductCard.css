@@ -1,0 +1,36 @@
+.product-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: white;
+}
+
+.product-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.product-title {
+  color: var(--amazon-blue);
+  font-size: 1rem;
+  margin: 0.5rem 0;
+}
+
+.product-price {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.add-to-cart-button {
+  background-color: var(--amazon-orange);
+  border: none;
+  color: var(--amazon-text);
+  padding: 0.5rem 1rem;
+  margin-top: 0.5rem;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+.add-to-cart-button:hover {
+  background-color: var(--amazon-light-orange);
+}
