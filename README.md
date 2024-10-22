@@ -1,4 +1,4 @@
-This is a simple e-commerce website built with React. It allows users to browse products, add them to their cart, and proceed to checkout. The website is designed to be responsive and visually appealing, with a focus on a clean and modern design.
+This is a simple e-commerce website built with React. It allows users to browse products, add them to their cart, and proceed to checkout. 
 
 ## Features
 
